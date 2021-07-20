@@ -100,3 +100,6 @@ exclude:
   - README.md
   - CNAME
 
+baseurl: /personal
+url: http://miguelkarlojuan.github.io
+
